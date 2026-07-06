@@ -1,0 +1,1 @@
+This project is the final project for the CSS and Flexbox portions of The Odin Project's curriculum. This should work as a test in my ability to use basic CSS and Flexbox commands to make a website's landing page.
